@@ -1,0 +1,24 @@
+{
+  "name": "weflixtv.wizaya.com",
+  "version": "1.0.0",
+  "description": "WeFlixTV",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jybanez/weflixtv.wizaya.com.git"
+  },
+  "keywords": [
+    "WeFlixTV",
+    "IPTV",
+    "VOD"
+  ],
+  "author": "Wizaya Business Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jybanez/weflixtv.wizaya.com/issues"
+  },
+  "homepage": "https://github.com/jybanez/weflixtv.wizaya.com#readme"
+}
